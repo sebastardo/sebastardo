@@ -1,4 +1,4 @@
-### Algun dia pondre mis proyectos como publicos
+### Algún día pondré mis proyectos como públicos
 
 <!--
 **sebastardo/sebastardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
