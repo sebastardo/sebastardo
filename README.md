@@ -1,5 +1,7 @@
 ### Algún día pondré mis proyectos como públicos
 
+![alt text](https://boyter.org/static/books/CgbR1wkXEAAMjqP.jpg)
+
 <!--
 **sebastardo/sebastardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
